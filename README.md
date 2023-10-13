@@ -1,1 +1,2 @@
-My first readme edit and pull
+My updated readme
+COYG
